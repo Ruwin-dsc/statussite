@@ -1,0 +1,8 @@
+{
+    "bottoken": "token", 
+    "setchannel": "salonId", 
+
+    "nameweb0": "nom_site",  
+    "ipweb0": "ip ex: google.com", 
+    "portweb0": "80" //ne pas changer
+}
