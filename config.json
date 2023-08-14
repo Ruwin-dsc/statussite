@@ -1,8 +1,14 @@
 {
-    "bottoken": "token", 
-    "setchannel": "salonId", 
+    "bottoken": "",
+    "setchannel": "id du salon", 
 
-    "nameweb0": "nom_site",  
-    "ipweb0": "ip ex: google.com", 
-    "portweb0": "80" //ne pas changer
+    "nameweb1": "Site Vitrine",  
+    "ipweb1": "site 1", 
+    "portweb": "80",
+    
+    "nameweb2": "Panel pterodactyl",
+    "ipweb2": "site 2", 
+    
+     "nameweb3": "Base de données",
+     "ipweb3": "site 3"
 }
